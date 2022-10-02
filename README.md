@@ -11,7 +11,12 @@ MultiMAN Lite will be simultaneously updated with CS MultiMAN.
 1) Download NodeJS
 https://nodejs.org/en/download/
 
+![image](https://user-images.githubusercontent.com/110330524/193399667-b47e5145-0fe1-48d0-a2fe-31a4d4c90e70.png)
+
+
 2) Confirm the existence of NodeJS and NPM by typing `node -v` and `npm -v`
+![image](https://user-images.githubusercontent.com/110330524/193399676-ff53469a-1130-440d-8167-f717581a0d4c.png)
+
 
 2) Clone this repository
 
