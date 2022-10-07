@@ -6,7 +6,6 @@ module.exports = [{
     $title[ Bot Info]
     $thumbnail[$userAvatar[$clientID]]
     $description[
-    **Server Name:** $serverName
     **Bot Name:** $userTag[$clientID]
     **Bot ID:** $clientID
     **Bot Owner:** $userTag[$botOwnerID]
@@ -19,6 +18,8 @@ module.exports = [{
     **Memory Usage:** $ram MB
     **Bot Status:** $status
     **Bot Avatar:** $userAvatar[$clientID]
+
+    GitHub Source Code: https://github.com/Valdezin/MultiMAN-Lite
     ]
     
     
