@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'slap',
+    name: 'stab',
     code:
     `
     <@$authorID> stabbed <@$mentioned[1]>!
