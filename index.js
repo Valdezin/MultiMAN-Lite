@@ -12,9 +12,3 @@ bot.onMessage()
 bot.onJoin()
 const loader = new aoijs.LoadCommands(bot)
 loader.load(bot.cmd,"./commands/")
-
-
-  
-
-
-
