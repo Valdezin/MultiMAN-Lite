@@ -7,7 +7,8 @@ module.exports = {
     **Username:** $userTag[$findUser[$message]]
     **ID:** $findUser[$message]
     **Account Created:** $creationDate[$findUser[$message];date]
-    **Bot:** $replaceText[$replaceText[$checkCondition[$userBot[$findUser[$message]]==true];true;Yes];false;No]
+    **Bot:** $replaceText[$replaceText[$checkCondition[$isBot[$findUser[$message]]==true];true;Yes];false;No]
+    **Boosting?**: $replaceText[$replaceText[$checkCondition[$isBoosting[$findUser[$message]]==true];true;Yes];false;No]
 
     `
 }
