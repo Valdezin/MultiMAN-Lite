@@ -43,3 +43,11 @@ https://nodejs.org/en/download/
 6) Create a file called config.json and copy the contents of config.json.example and populate it with your Discord Token and preferred prefix
 
 7) Run by typing `node index.js`
+
+# Feature Requests
+
+You may submit an issue or email at ops@vldz.ga
+
+# For Enhancements/Code Cleanup/Feature Addition
+
+Simply open a pull request and I'll approve it if I see it as a great addition
