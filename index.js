@@ -4,7 +4,7 @@ const config  = require('./config.json');
 const bot = new aoijs.AoiClient({
   token: config.TOKEN, //Discord Bot Token
   prefix: config.PREFIX, //Prefix for commands
-  intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_MEMBERS"]
+  intents: ["Guilds", "GuildMessages", "GuildMembers", "MessageContent"] //Intents
 })
 //Events
 bot.onInteractionCreate()
