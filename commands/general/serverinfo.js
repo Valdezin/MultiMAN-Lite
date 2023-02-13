@@ -1,19 +1,20 @@
 module.exports = {
-    name: "serverinfo",
+    name: "guildinfo",
     code:`
-    $title[Server Info]
+    $title[Guild Info]
+    
     $description[
-    **Server Name:** $serverName
-    **Server ID:** $guildID
-    **Server Owner:** $userTag[$ownerID]
-    **Server Owner ID:** $ownerID
-    **Server Creation Date:** $creationDate[$guildID;date]
-    **Server Boost Level:** $serverBoostLevel
-    **Server Boost Count:** $serverBoostCount
-    **Server Member Count:** $membersCount
-    **Server Role Count:** $roleCount
-    **Server Channel Count:** $channelCount
-    **Server Icon:** $serverIcon
+    **Guild Name:** $guildName
+    **Guild ID:** $guildID
+    **Guild Owner:** $userTag[$ownerID]
+    **Guild Owner ID:** $ownerID
+    **Guild Creation Date:** $creationDate[$guildID;date]
+    **Guild Boost Level:** $guildBoostLevel
+    **Guild Boost Count:** $guildBoostCount
+    **Guild Member Count:** $membersCount
+    **Guild Role Count:** $roleCount
+    **Guild Channel Count:** $channelCount
+    **Guild Icon:** $guildIcon
     ]
     `
 }

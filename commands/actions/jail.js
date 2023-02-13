@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'pls jail',
+    name: 'jail',
     code:
     `
     $description[

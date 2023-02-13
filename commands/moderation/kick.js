@@ -15,7 +15,7 @@ module.exports = {
     $onlyIf[$noMentionMessage!=;You need to give a reason to kick]
     $onlyIf[$mentioned[1]!=$authorID;You can't kick yourself]
     $onlyIf[$mentioned[1]!=$clientID;Bruh you can't kick me]
-    $onlyIf[$mentioned[1]!=$ownerID;You can't kick the server owner]
+    $onlyIf[$mentioned[1]!=$ownerID;You can't kick the Guild owner]
     $suppressErrors[An error occurred, please try again later]
 
 

@@ -14,7 +14,7 @@ module.exports = {
     $onlyIf[$noMentionMessage!=;You need to give a reason to ban]
     $onlyIf[$mentioned[1]!=$authorID;You can't ban yourself]
     $onlyIf[$mentioned[1]!=$clientID;Bruh you can't ban me]
-    $onlyIf[$mentioned[1]!=$ownerID;You can't ban the server owner]
+    $onlyIf[$mentioned[1]!=$ownerID;You can't ban the Guild owner]
     $suppressErrors[An error occurred, please try again later]
 
 
