@@ -11,7 +11,7 @@ MultiMAN Lite will be simultaneously updated with CS MultiMAN.
 1) Download NodeJS
 https://nodejs.org/en/download/
 
-![image](https://user-images.githubusercontent.com/110330524/193399667-b47e5145-0fe1-48d0-a2fe-31a4d4c90e70.png)
+![image](https://user-images.githubusercontent.com/110330524/219664565-01087616-b858-4258-9bc3-5f085e9d42bf.png)
 
 
 2) Confirm the existence of NodeJS and NPM by typing `node -v` and `npm -v`
@@ -20,7 +20,7 @@ https://nodejs.org/en/download/
 
 2) Clone this repository
 
-3) Type `npm install aoi.js@5.5.5` in the root folder of the repository
+3) Type `npm install aoi.js@6.1.0` in the root folder of the repository
 
 4) Create a file called config.json and copy the contents of config.json.example and populate it with your Discord Token and preferred prefix
 
@@ -38,7 +38,7 @@ https://nodejs.org/en/download/
 
 4) Clone this repository
 
-5) Type `npm install aoi.js` in the root folder of the repository
+5) Type `npm install aoi.js@6.1.0` in the root folder of the repository
 
 6) Create a file called config.json and copy the contents of config.json.example and populate it with your Discord Token and preferred prefix
 
