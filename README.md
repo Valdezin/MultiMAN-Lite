@@ -38,7 +38,7 @@ https://nodejs.org/en/download/
 
 4) Clone this repository
 
-5) Type `npm install aoi.js@6.1.0` in the root folder of the repository
+5) Type `npm install aoi.js@latest` in the root folder of the repository
 
 6) Create a file called config.json and copy the contents of config.json.example and populate it with your Discord Token and preferred prefix
 
