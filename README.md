@@ -35,6 +35,7 @@ https://nodejs.org/en/download/
 `sudo apt install nodejs -y`
 
 3) Confirm the existence of NodeJS and NPM by typing `node -v` and `npm -v`
+
 ![image](https://github.com/Valdezin/MultiMAN-Lite/assets/110330524/79a55691-d6d8-4a67-b11f-f2589e7faff3)
 
 
